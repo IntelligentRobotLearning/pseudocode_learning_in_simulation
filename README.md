@@ -1,4 +1,4 @@
-# pseudocode_learning_in_simulation
+# Learning_in_simulation
 
 Environment_simulator.py --Interface demonstration of environment simulator
 
